@@ -1,0 +1,28 @@
+main {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 18px
+}
+
+h1 {
+  color: #c51b8a;
+}
+
+.greenfox {
+  color: #b7df1b;
+}
+
+.first {
+  color: #ba0a0f;
+}
+
+.black {
+  color: black;
+  text-decoration-line: underline;
+  text-decoration-color: #ba0a0f;
+}
+
+ol {
+  text-decoration-line: underline;
+  text-decoration-color: black;
+  list-style-type: upper-roman;
+  }
